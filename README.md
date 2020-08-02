@@ -35,9 +35,14 @@ _O polybar superior é dividido em 7 modulos_
 		- unic
 		- clock
 		
-# Modulos e fonções do polybar superior
+# Modulos e funções do polybar superior
 
 ![alt text](https://github.com/Diego-ACG/Polybar-Multi-Colors/blob/master/images/arch.png) _Module arch_\
 		O Modulo arch nada mais é que, um simples enfeite, que muda de cor a cada segundo.\
 		Por enquanto, nenhuma função foi adicionada a ele.
 		
+![alt text](https://github.com/Diego-ACG/Polybar-Multi-Colors/blob/master/images/i3.png) Module i3\
+			O mudule i3, é um modulo nativo do polybar, podendo ser perssonalizado para o deixar co a sua cara.\
+			Este modulo tem as funções padrão, tais como, clicar para mudar de area de trabalho,\
+			indicar quais areas de trabalho estão ocupadas, e indica se á alguma atividade occorendo fora de sua\
+			area de trabalho atual, mudando a cor do circulo para vermelho.
