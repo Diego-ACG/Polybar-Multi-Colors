@@ -37,7 +37,7 @@ _O polybar superior é dividido em 7 modulos_
 		
 # Modulos e fonções do polybar superior
 
-![alt text](https://github.com/Diego-ACG/Polybar-Multi-Colors/blob/master/images/arch.png) _Module arch_
+![alt text](https://github.com/Diego-ACG/Polybar-Multi-Colors/blob/master/images/arch.png) _Module arch_\
 		O Modulo arch nada mais é que, um simples enfeite, que muda de cor a cada segundo.\
 		Por enquanto, nenhuma função foi adicionada a ele.
 		
